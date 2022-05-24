@@ -5,3 +5,10 @@ body {
 }
 
 /* Colors Used: #5d3a3a #b5e0ba */
+
+.box{
+    background-color: #b5e0ba;
+    height: 10vh;
+    width: 10vw;
+   
+    }
